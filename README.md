@@ -34,7 +34,7 @@
 + Visual Code — free code editor for Typescript
 + Visual Studio 2019 Community — free code editor for C#
 + Knowledge of Git such as cloning Github repository to local
-+ Familiar with OIDC and oAuth2 terminologies
++ Familiar with OIDC and OAuth2 terminologies
 
 # Tutorial Content
 + The tutorial will focus on features in IdentityServer4 Admin UI to secure React app. Thanks to the advanced Admin UI, you can register the React app as a Client and then configure security settings via the user-friendly interface (vs. writing a lot of code which you may have seen in many online tutorials).
@@ -48,7 +48,7 @@
 + Part 3: Review application architecture and configuration in IdentityServer4 to secure React app.
 
 ## Part 1: A walk-thru of an online demo to get you familiar with JSON Web Token (JWT)
-+ Developers love to see working source code. We all like to experiment with how something works, and then decide whether we want to spend our valuable time learning it. Check out the live demo. Log in with the account (janedoe, Pa$$word123)
++ Developers love to see working source code. We all like to experiment with how something works, and then decide whether we want to spend our valuable time learning it. Check out the live demo. Log in with the account (**janedoe**, **Pa$$word123**)
 
 + First, let’s get familiar with the demo React app. Figure 1 depicts the application architecture reference in this tutorial. It shows the JWT interface and communication ports between application components running in Azure. The architecture consists of Clients, ApiResources, and Token Service (CAT).
 
@@ -71,7 +71,7 @@
 + The source code for the sample React app secured by IdentityServer4 is available on GitHub. You can clone and run these projects out of the box. Below are links to repositories and their description
 
 + **workcontrolgit/react-oidc-client-js** — this repo contains a React app pre-configured with OIDC client library to login IdentityServer4. The app provides login/logout features. The repo is a fork of react-oidc-client-js and then upgraded to React 17 and added custom code/configuration to work on localhost and in Azure
-+ **workcontrolgit/TokenProject.AdminUI** — this is a repository of IdentityServer4 Admin UI written in C#/NetCore5. The Visual Studio solution consists of three web projects Admin UI, Admin API, and IdentityServer4.
++ **workcontrolgit/TokenProject.AdminUI** — this repo of IdentityServer4 Admin UI written in C#/NetCore5. The Visual Studio solution consists of three web projects Admin UI, Admin API, and IdentityServer4.
 + **workcontrolgit/catnetcoreapi** — this repo contains a sample REST API generated using OnionAPI template. The REST API is written in C#/NetCore 5.
 
 ### Task 2.1 — Git clone React app with Visual Code
