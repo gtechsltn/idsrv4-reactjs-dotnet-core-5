@@ -25,7 +25,7 @@
 
 ## To develop this tutorial, I have reviewed and integrated tools and techniques from the following high-quality opensource projects
 + **IdentityServer4** — this project has 7.9K stars on Github. It is the #1 opensource project for securing enterprise ASP.NET WebAPI by Brock Allen.
-IdentityModel/oidc-client-js — this project has 2.1K stars on Github. It is a library to provide OpenID Connect (OIDC) and OAuth2 protocol support for client-side, browser-based JavaScript client applications by Brock Allen.
++ **IdentityModel/oidc-client-js** — this project has 2.1K stars on Github. It is a library to provide OpenID Connect (OIDC) and OAuth2 protocol support for client-side, browser-based JavaScript client applications by Brock Allen.
 + **IdentityServer4.Admin** — this project has 2.7K stars on GitHub. It is the best Admin UI of the IdentityServer4 and Asp.Net Core Identity by Jan Škoruba.
 + **react-oidc-client-js** — this project has 130 stars on GitHub. It is a sample React app wired in oidc-client-js library to login IdentityServer4 by Jan Škoruba.
 
