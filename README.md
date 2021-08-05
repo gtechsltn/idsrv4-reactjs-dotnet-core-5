@@ -4,10 +4,44 @@
 + Sample IdentityServer4 and JavaScript client cloned from IdentityServer4 official repository
 + https://github.com/Jamaxack/IdentityServerSPA
 
-## Good Articles
-+ https://laptrinhx.com/secure-react-17-with-jwt-and-identityserver4-2685822964/
+# Articles
++ Adding OAuth to a .Net Core - React - Redux App with Identity Server 4 and Redux-oidc - Part 1
++ https://ivanthag.wixsite.com/reactdotnet/post/adding-oauth-to-a-net-core-react-redux-app-with-identity-server-4-and-redux-oidc-part-1
++ React + Redux with ASP.NET Core 2.0 - Login & Registration Tutorial & Example
++ https://www.pointblankdevelopment.com.au/blog/135/react-redux-with-aspnet-core-20-login-registration-tutorial-example
 
-## Sample
+## Good Link
++ Web API authentication using React and Identity Server 4. Repo for blog post.
++ https://dev.to/tappyy/oidc-authentication-with-react-identity-server-4-3h0d
++ https://github.com/tappyy/react-IS4-auth-demo
+
+## Good Link
++ https://laptrinhx.com/secure-react-17-with-jwt-and-identityserver4-2685822964/
++ https://cat-token-identity.azurewebsites.net/
++ (janedoe, Pa$$word123)
+
+## Good Link
++ Demo app for using Identity Server with React.js SPA, .Net Core 3.0 and TypeScript
++ https://github.com/ThunderDev1/reactjs-ts-identityserver
+
+## Authentication to sensenet with IdentityServer4
++ https://www.sensenet.com/blog/2020-05-05-authentication-with-identity-server
+
+## For examples
++ Exploring a new web architecture with React, Redux, Orleans and Dotnet Core.
++ https://github.com/Maarten88/rrod
++ Real-time React SPA template using dotNetify.
++ https://github.com/dsuryd/dotNetify-react-template
++ Powerful ASP.NET Core 3 templates with React, true server-side rendering and Docker support
++ https://github.com/NickMaev/react-core-boilerplate
+
+## Examples
++ https://github.com/tungphuong/Dapper.SimpleCRUD
++ https://github.com/vietnam-devs/crmcore
++ https://github.com/vietnam-devs/coolstore-microservices
++ https://medium.com/hackernoon/clean-domain-driven-design-in-10-minutes-6037a59c8b7b
+
+## Samples
 + React + Redux with ASP.NET Core 2.0 - Login & Registration Tutorial & Example
 + https://github.com/cornflourblue/aspnet-core-react-registration-login-example
   + React + Redux and ASP.NET Core 2.0
