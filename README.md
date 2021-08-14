@@ -1,4 +1,8 @@
 # IdentityServer4 + ReactJS + ASP.NET Core 5 Web API
++ **C**: https://github.com/workcontrolgit/react-oidc-client-js (based on https://github.com/skoruba/react-oidc-client-js.git)
++ **A**: https://github.com/workcontrolgit/catnetcoreapi
++ **T**: https://github.com/workcontrolgit/TokenProject.AdminUI
+
 + Samples IdentityServer4: OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 + https://github.com/IdentityServer/IdentityServer4/tree/main/samples/Quickstarts
 + Sample IdentityServer4 and JavaScript client cloned from IdentityServer4 official repository
